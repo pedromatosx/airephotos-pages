@@ -2,9 +2,9 @@
 
 Demonstração **visual e interativa** da FotoViva, disponível em:
 
-https://pedromatosx.github.io/fotoviva-pages/
+https://pedromatosx.github.io/airephotos-pages/
 
-O código-fonte completo da aplicação permanece no repositório privado `pedromatosx/fotoviva`. Este repositório contém somente os arquivos estáticos compilados e os scripts públicos exclusivos da demonstração.
+O código-fonte completo da aplicação permanece no repositório privado `pedromatosx/airephotos`. Este repositório contém somente os arquivos estáticos compilados e os scripts públicos exclusivos da demonstração.
 
 ## Experiências disponíveis
 
